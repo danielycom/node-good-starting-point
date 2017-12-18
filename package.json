@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "express": "^4.14.1",
-    "morgan": "^1.8.1"
+    "morgan": "^1.8.1",
+    "async": "^2.6.0",
+    "tedious": "^2.1.5"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
